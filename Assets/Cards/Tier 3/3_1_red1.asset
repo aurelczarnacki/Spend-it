@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68e6209fa60758e44a04f14cdeabdb3e, type: 3}
+  m_Name: 3_1_red1
+  m_EditorClassIdentifier: 
+  tier: 3
+  image: {fileID: 21300000, guid: 896e6b6b8a65a1346940c7526b028bec, type: 3}
+  color: 2
+  blackCost: 3
+  whiteCost: 3
+  redCost: 0
+  greenCost: 3
+  blueCost: 5
+  points: 3
