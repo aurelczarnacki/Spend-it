@@ -1,4 +1,4 @@
-# Spend It! [![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/aurelczarnacki/Train-the-game/blob/main/README.pl.md) [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/aurelczarnacki/Train-the-game/blob/main/README.md)
+# Spend It! [![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/aurelczarnacki/Spend-it-/blob/main/README.pl.md) [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/aurelczarnacki/Spend-it-/blob/main/README.md)
 
 <img align="center" src="https://github.com/aurelczarnacki/Spend-it-/blob/main/Screenshots/SpendItMain.png?raw=true">
 &nbsp;
