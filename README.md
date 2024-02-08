@@ -9,7 +9,7 @@
 
 ## Technology 
 #### Engine
-The project was developed using the **Unit engine**. 
+The project was developed using the **Unity engine**. 
 
 #### Language
 The entire game code was written in **C#**.
